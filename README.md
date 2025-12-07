@@ -218,3 +218,18 @@ GitHub’s built-in CI/CD system.
 ## 🔔 Follow for More DevOps Interview Questions  
 📺 **YouTube Channel:** DevOps With Namdev  
 👉 https://www.youtube.com/@namdev.devops
+
+---
+
+## Join Channel For Latest Updates On DevOps
+👉 **Join** https://whatsapp.com/channel/0029VbCFJhi1CYoN35Hljy2R
+
+---
+
+## 📚 DevOps Training & Mentorship
+
+### 🚀 Checkout DevOps Courses  
+🔗 https://uxito.net
+
+### 💬 WhatsApp for DevOps Training or 1:1 Mentorship  
+📱 **+91 7276 12 1983**
